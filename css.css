@@ -1,0 +1,66 @@
+body
+{
+background: url("rr.png");
+background-size: contain;
+background-repeat: no-repeat;
+height: 4000px;
+width: 100%;
+high: 100%;
+}
+#topnav
+{
+	background-color: #red;
+	text-align: center;
+}
+
+.menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 20px;
+	font-size: 18px;
+	min-height: 20px;
+	line-height: 200%;
+}
+
+.menu > li
+{
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 20px;
+	
+}
+.menu a
+{
+	color: #FFFFF;
+	text-decoration: none;
+}
+
+.menu a:hover
+{
+	color: #FFFFF;
+}
+
+.categories
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 950px;
+	text-align: center;
+	padding: 0;
+}
+h1
+{
+	font-size: 44px;
+	font-weight: 400;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+}
+h3
+{
+	font-size: 22px;
+	font-weight: 200;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+}
+.table
